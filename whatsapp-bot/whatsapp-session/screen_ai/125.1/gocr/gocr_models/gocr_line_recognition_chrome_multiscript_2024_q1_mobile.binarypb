@@ -1,0 +1,19 @@
+
+Dtype.googleapis.com/google_ocr.MultiPassLineRecognitionMutatorConfigû
+c
+Arab[Yline_recognition_mobile_convnext320/recognizer_convnext320_cl606649635_arab_fst_config.pb
+S
+BengKIline_recognition_mobile_convnext320/recognizer_convnext320_beng_config.pb
+W
+CyrlOMline_recognition_mobile_convnext320/recognizer_convnext320_cyrl_fst_config.pb
+W
+DevaOMline_recognition_mobile_convnext320/recognizer_convnext320_deva_fst_config.pb
+X
+HaniPNline_recognition_mobile_convnext320/recognizer_convnext320_hani_jpan_config.pb
+X
+JpanPNline_recognition_mobile_convnext320/recognizer_convnext320_hani_jpan_config.pb
+c
+Kore[Yline_recognition_mobile_convnext320/recognizer_convnext320_cl605667156_kore_fst_config.pb
+S
+LatnKIline_recognition_mobile_convnext320/recognizer_convnext320_latn_config.pb<
+)LanguageBasedLineRecognizerConfigSelectorLatn%ÕÃÃ>*Latn ‡‘(

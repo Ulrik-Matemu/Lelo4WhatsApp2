@@ -1,0 +1,34 @@
+2024/10/05-13:48:42.370 29a0 Reusing MANIFEST C:\Users\vlet\Desktop\Shit from My Desktop\A bunch of projects\Portfolio\WhatsApp AI Chatbot\whatsapp-bot\whatsapp-session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/10/05-13:48:42.372 29a0 Recovering log #162
+2024/10/05-13:48:42.416 29a0 Reusing old log C:\Users\vlet\Desktop\Shit from My Desktop\A bunch of projects\Portfolio\WhatsApp AI Chatbot\whatsapp-bot\whatsapp-session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/000162.log 
+2024/10/05-13:48:45.103 280c Level-0 table #167: started
+2024/10/05-13:48:45.162 280c Level-0 table #167: 441170 bytes OK
+2024/10/05-13:48:45.166 280c Delete type=0 #162
+2024/10/05-13:48:45.167 29a0 Manual compaction at level-0 from '\x00L\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00M\x00\x00\x00' @ 0 : 0; will stop at (end)
+2024/10/05-13:48:48.430 280c Compacting 1@1 + 1@2 files
+2024/10/05-13:48:48.830 280c Generated table #168@1: 52479 keys, 2004049 bytes
+2024/10/05-13:48:48.831 280c Compacted 1@1 + 1@2 files => 2004049 bytes
+2024/10/05-13:48:48.837 280c compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/10/05-13:48:48.837 280c Delete type=2 #164
+2024/10/05-13:48:48.838 280c Delete type=2 #167
+2024/10/05-13:52:08.073 29a0 Level-0 table #170: started
+2024/10/05-13:52:08.196 29a0 Level-0 table #170: 1260856 bytes OK
+2024/10/05-13:52:08.200 29a0 Delete type=0 #166
+2024/10/05-13:52:08.959 29a0 Compacting 1@1 + 1@2 files
+2024/10/05-13:52:09.392 29a0 Generated table #171@1: 57818 keys, 2228144 bytes
+2024/10/05-13:52:09.419 29a0 Generated table #172@1: 1432 keys, 27728 bytes
+2024/10/05-13:52:09.420 29a0 Compacted 1@1 + 1@2 files => 2255872 bytes
+2024/10/05-13:52:09.424 29a0 compacted to: files[ 0 0 2 0 0 0 0 ]
+2024/10/05-13:52:09.425 29a0 Delete type=2 #168
+2024/10/05-13:52:09.425 29a0 Delete type=2 #170
+2024/10/05-13:53:31.362 29a0 Level-0 table #174: started
+2024/10/05-13:53:31.520 29a0 Level-0 table #174: 1235679 bytes OK
+2024/10/05-13:53:31.525 29a0 Delete type=0 #169
+2024/10/05-13:53:32.202 1110 Compacting 1@1 + 2@2 files
+2024/10/05-13:53:32.327 1110 Generated table #175@1: 53780 keys, 2229813 bytes
+2024/10/05-13:53:32.359 1110 Generated table #176@1: 10616 keys, 213255 bytes
+2024/10/05-13:53:32.360 1110 Compacted 1@1 + 2@2 files => 2443068 bytes
+2024/10/05-13:53:32.363 1110 compacted to: files[ 0 0 2 0 0 0 0 ]
+2024/10/05-13:53:32.364 1110 Delete type=2 #171
+2024/10/05-13:53:32.365 1110 Delete type=2 #172
+2024/10/05-13:53:32.365 1110 Delete type=2 #174
