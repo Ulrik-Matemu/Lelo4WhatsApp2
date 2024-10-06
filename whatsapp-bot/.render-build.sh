@@ -4,6 +4,8 @@
 apt-get update
 
 # Install Chromium and its dependencies
+
+
 apt-get install -y chromium-browser
 
 # Add Puppeteer's required dependencies
@@ -28,3 +30,5 @@ apt-get install -y \
 
 # Install npm dependencies
 npm install
+
+npx puppeteer install chrome
